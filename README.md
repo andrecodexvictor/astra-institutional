@@ -6,7 +6,7 @@ A standalone, public-facing presentation for the independent ASTRA mission-learn
 
 No build or dependencies are required. From this directory, run `python3 -m http.server 8000 --directory dist`, then open `http://localhost:8000`. Deploy the contents of `dist/` to a static host. The site has no account, forms, uploads, analytics, or external runtime dependencies.
 
-The linked [playable mission trainer](https://astra-mission-trainer.andrevictorandrade.chatgpt.site) and its [source repository](https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer) are separate from this presentation. The resource-choice interaction on this site is an illustration, not a scientific simulation. Production vision artwork shows concepts, not necessarily shipped features.
+The linked [playable mission trainer](https://astra-junior-mission-trainer.vercel.app/) and its [source repository](https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer) are separate from this presentation. The resource-choice interaction on this site is an illustration, not a scientific simulation. Production vision artwork shows concepts, not necessarily shipped features.
 
 ## Assets and license
 

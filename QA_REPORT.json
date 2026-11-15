@@ -39,5 +39,11 @@
   "aiImageHashes": "verified original PNG and WebP derivatives",
   "nasaImageHash": "matches original game provenance; not AI-generated",
   "nasaSourcePaths": "all source paths exist in game repository",
-  "presentationPromotion": "removed from landing at owner request"
+  "presentationPromotion": "removed from landing at owner request",
+  "demoDestination": {
+    "url": "https://astra-junior-mission-trainer.vercel.app/",
+    "httpStatus": 200,
+    "authentication": "none",
+    "scope": "HTTP link availability only; no gameplay acceptance inferred"
+  }
 }
