@@ -1,0 +1,40 @@
+{
+  "assets": [
+    {
+      "derivative": "dist/assets/09-partner-lunar-journey.webp",
+      "sha256": "9fee646facda4fd016a743db9ae2f644841e69b48eaa212c87c1ee6dcfee5a44",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/09-partner-lunar-journey.png",
+      "source_sha256": "7131d2e4b227f55460d791467d4a8de1f321cda003651146ad35cbb9a508820e",
+      "transformation": "WebP optimization from original full-scene concept board; no new real-world photography",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted"
+    },
+    {
+      "derivative": "dist/assets/11-playful-tasks-dialogue.webp",
+      "sha256": "6543923288433e20994184989e5193908a57501337f9bc8da9de5312f51da750",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/11-playful-tasks-dialogue.png",
+      "source_sha256": "3f326cee59989d0a14650e8a532e372d1798bbb7f5667fda866ab37cd8f1dd7a",
+      "transformation": "WebP optimization from original full-scene concept board; no new real-world photography",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted"
+    },
+    {
+      "derivative": "dist/assets/15-short-dialogue-voice.webp",
+      "sha256": "4060750bcc59c1fedc615b54646d357e478aaefcdf1bee3db035b6fe0b9d22b0",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/15-short-dialogue-voice.png",
+      "source_sha256": "72f2731478fb5a51330b634b3b644a0affcf721164fdadd39b304b703767b147",
+      "transformation": "WebP optimization from original full-scene concept board; no new real-world photography",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted"
+    },
+    {
+      "derivative": "dist/assets/17-resource-care-alert.webp",
+      "sha256": "b019d316ceb16df9d17efec6b3add7f6a3b237f7c1ccb935afe022aade8599bf",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/17-resource-care-alert.png",
+      "source_sha256": "465e343f986fdfc5023bdc836b689872b8915f3fa6a8b7738a4215e0391beb3c",
+      "transformation": "WebP optimization from original full-scene concept board; no new real-world photography",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted"
+    }
+  ]
+}

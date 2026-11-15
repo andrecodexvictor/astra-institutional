@@ -1,0 +1,36 @@
+{
+  "staticChecks": [
+    {
+      "file": "dist/elevator-pt.html",
+      "localLinks": "passed",
+      "duplicateIds": "none",
+      "externalRuntimeScripts": "none"
+    },
+    {
+      "file": "dist/downloads.html",
+      "localLinks": "passed",
+      "duplicateIds": "none",
+      "externalRuntimeScripts": "none"
+    },
+    {
+      "file": "dist/index.html",
+      "localLinks": "passed",
+      "duplicateIds": "none",
+      "externalRuntimeScripts": "none"
+    },
+    {
+      "file": "dist/pitch-en.html",
+      "localLinks": "passed",
+      "duplicateIds": "none",
+      "externalRuntimeScripts": "none"
+    }
+  ],
+  "javascriptSyntax": "passed via node --check",
+  "imageReferences": "passed",
+  "keyboardSemantics": "native buttons, anchors and details; visible focus and live result inspected in source",
+  "browserLayoutAndInteractionQA": "pending: required managed CUA tool unavailable; no substitute browser claimed",
+  "responsiveRules": "desktop, 800px and 520px breakpoints present; real-device checks pending",
+  "reviewedByIntegrator": true,
+  "noAccountFormsUploadsTracking": true,
+  "publicAudienceRequested": true
+}
