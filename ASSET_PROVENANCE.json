@@ -53,20 +53,22 @@
     },
     {
       "derivative": "dist/assets/17-resource-care-alert.webp",
-      "sha256": "2d2a9cac6b68fa65439880e64058b9de9c4fdc7d9c881bf609439b7345121768",
+      "sha256": "ff23810390ce4e57881db593f4b25fd1b50fd0570b1def5bf955bb7c9388e63e",
       "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/17-resource-care-alert.png",
       "source_sha256": "465e343f986fdfc5023bdc836b689872b8915f3fa6a8b7738a4215e0391beb3c",
-      "transformation": "AI image edit of supplied concept board to translate speech and watermark to English, followed by WebP optimization; full-scene composition retained",
+      "transformation": "AI image edit localizes text into English and restores the canonical astronaut face, detailed eyes, full-body PIP robot and dachshund proportions from the hero illustration, followed by WebP optimization.",
       "kind": "AI-generated production concept, not gameplay capture",
       "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted",
-      "previousDerivativeSha256": "b019d316ceb16df9d17efec6b3add7f6a3b237f7c1ccb935afe022aade8599bf",
+      "previousDerivativeSha256": "2d2a9cac6b68fa65439880e64058b9de9c4fdc7d9c881bf609439b7345121768",
       "englishMaster": "art/english/17-resource-care-alert-en.png",
-      "englishMasterSha256": "0870bff47f8806efef15c11346ce6196b02bff071056aca4ccdee681d360ed3f",
+      "englishMasterSha256": "ef9c18a678d44a795306a6bcae9bed3a3d5cee293d719829cf3e6f7a94a110e9",
       "aiGenerated": true,
       "tool": "OpenAI image_gen",
       "language": "en",
       "visibleAiLabel": true,
-      "review": "English embedded text and AI-generated art label visually reviewed on 2026-11-15"
+      "review": "Visually reviewed 2026-11-15: detailed brown-eyed canonical astronaut; full-body PIP with antenna, torso, arms and legs; English speech and visible AI-generated-art disclosure.",
+      "previousEnglishMasterSha256": "0870bff47f8806efef15c11346ce6196b02bff071056aca4ccdee681d360ed3f",
+      "canonicalCharacterReference": "art/english/09-partner-lunar-journey-en.png"
     }
   ],
   "brand": {

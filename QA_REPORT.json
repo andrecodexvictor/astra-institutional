@@ -45,5 +45,14 @@
     "httpStatus": 200,
     "authentication": "none",
     "scope": "HTTP link availability only; no gameplay acceptance inferred"
-  }
+  },
+  "vercelConfiguration": {
+    "framework": null,
+    "outputDirectory": "dist",
+    "buildCommand": "empty",
+    "installCommand": "empty",
+    "entrypointExists": true,
+    "note": "Static config verified; remote deployment status and URL must be checked independently."
+  },
+  "waterArtContinuity": "Visually reviewed corrected child facial features, complete PIP body, antenna, torso, limbs and canonical dachshund; English speech and AI label retained."
 }
