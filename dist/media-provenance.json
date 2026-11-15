@@ -1,0 +1,85 @@
+{
+  "assets": [
+    {
+      "derivative": "dist/assets/09-partner-lunar-journey.webp",
+      "sha256": "ca330f64fc79ef3c241f516a65e2accaabdb962960ec03699812116c9c5a0017",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/09-partner-lunar-journey.png",
+      "source_sha256": "7131d2e4b227f55460d791467d4a8de1f321cda003651146ad35cbb9a508820e",
+      "transformation": "AI image edit of supplied concept board to translate speech and watermark to English, followed by WebP optimization; full-scene composition retained",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted",
+      "previousDerivativeSha256": "9fee646facda4fd016a743db9ae2f644841e69b48eaa212c87c1ee6dcfee5a44",
+      "englishMaster": "art/english/09-partner-lunar-journey-en.png",
+      "englishMasterSha256": "897957ee2477936a962958fbe9ac203cbd8f2ff2e12e06bced9bbea42742dd07",
+      "aiGenerated": true,
+      "tool": "OpenAI image_gen",
+      "language": "en",
+      "visibleAiLabel": true,
+      "review": "English embedded text and AI-generated art label visually reviewed on 2026-11-15"
+    },
+    {
+      "derivative": "dist/assets/11-playful-tasks-dialogue.webp",
+      "sha256": "5d426768caabc4e84d2d31a7240a2165ba19472e5c12ce545caa8320d6a8797d",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/11-playful-tasks-dialogue.png",
+      "source_sha256": "3f326cee59989d0a14650e8a532e372d1798bbb7f5667fda866ab37cd8f1dd7a",
+      "transformation": "AI image edit of supplied concept board to translate speech and watermark to English, followed by WebP optimization; full-scene composition retained",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted",
+      "previousDerivativeSha256": "6543923288433e20994184989e5193908a57501337f9bc8da9de5312f51da750",
+      "englishMaster": "art/english/11-playful-tasks-dialogue-en.png",
+      "englishMasterSha256": "9de4cbbf2d4b7cfade20237601f6d0019681eb82699c4b6a632df7ad8ffca124",
+      "aiGenerated": true,
+      "tool": "OpenAI image_gen",
+      "language": "en",
+      "visibleAiLabel": true,
+      "review": "English embedded text and AI-generated art label visually reviewed on 2026-11-15"
+    },
+    {
+      "derivative": "dist/assets/15-short-dialogue-voice.webp",
+      "sha256": "df5bcbe08e70a90c5e6c7409b18943df44168e66336b3a77b914be691d5e154f",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/15-short-dialogue-voice.png",
+      "source_sha256": "72f2731478fb5a51330b634b3b644a0affcf721164fdadd39b304b703767b147",
+      "transformation": "AI image edit of supplied concept board to translate speech and watermark to English, followed by WebP optimization; full-scene composition retained",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted",
+      "previousDerivativeSha256": "4060750bcc59c1fedc615b54646d357e478aaefcdf1bee3db035b6fe0b9d22b0",
+      "englishMaster": "art/english/15-short-dialogue-voice-en.png",
+      "englishMasterSha256": "0aefa44af66643dcd2712da01b295907a2e8af57bdb6c3b3b1eff6aa1b221850",
+      "aiGenerated": true,
+      "tool": "OpenAI image_gen",
+      "language": "en",
+      "visibleAiLabel": true,
+      "review": "English embedded text and AI-generated art label visually reviewed on 2026-11-15"
+    },
+    {
+      "derivative": "dist/assets/17-resource-care-alert.webp",
+      "sha256": "2d2a9cac6b68fa65439880e64058b9de9c4fdc7d9c881bf609439b7345121768",
+      "source": "https://github.com/andrecodexvictor/astra-junior-astronaut-mission-trainer/blob/main/docs/art/production-vision/17-resource-care-alert.png",
+      "source_sha256": "465e343f986fdfc5023bdc836b689872b8915f3fa6a8b7738a4215e0391beb3c",
+      "transformation": "AI image edit of supplied concept board to translate speech and watermark to English, followed by WebP optimization; full-scene composition retained",
+      "kind": "AI-generated production concept, not gameplay capture",
+      "third_party_marks": "NASA graphic retained from original fictional uniform; no endorsement or trademark license granted",
+      "previousDerivativeSha256": "b019d316ceb16df9d17efec6b3add7f6a3b237f7c1ccb935afe022aade8599bf",
+      "englishMaster": "art/english/17-resource-care-alert-en.png",
+      "englishMasterSha256": "0870bff47f8806efef15c11346ce6196b02bff071056aca4ccdee681d360ed3f",
+      "aiGenerated": true,
+      "tool": "OpenAI image_gen",
+      "language": "en",
+      "visibleAiLabel": true,
+      "review": "English embedded text and AI-generated art label visually reviewed on 2026-11-15"
+    }
+  ],
+  "brand": {
+    "paths": "dist/assets/brand/",
+    "aiGenerated": true,
+    "classification": "Original AI-generated SVG vector artwork authored by GPT-6.1 Terra and reviewed by integrating Codex; no third-party mark embedded",
+    "visibleDisclosure": "science-and-art.html and footer",
+    "license": "MIT original vector contribution; third-party marks in other images are excluded"
+  },
+  "nasaMedia": {
+    "path": "dist/science/earth.jpg",
+    "aiGenerated": false,
+    "classification": "Actual NASA satellite-observation mosaic; see science/NASA_DATA_REGISTRY.json",
+    "sha256": "312c89088b2e1f50607d449c5f69e2735df03b0f8889e9b2b958c0dfed6fc887"
+  }
+}

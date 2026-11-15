@@ -1,36 +1,43 @@
 {
   "staticChecks": [
     {
+      "file": "dist/science-and-art.html",
+      "localLinks": "passed",
+      "uniqueIds": "passed"
+    },
+    {
       "file": "dist/elevator-pt.html",
       "localLinks": "passed",
-      "duplicateIds": "none",
-      "externalRuntimeScripts": "none"
+      "uniqueIds": "passed"
     },
     {
       "file": "dist/downloads.html",
       "localLinks": "passed",
-      "duplicateIds": "none",
-      "externalRuntimeScripts": "none"
+      "uniqueIds": "passed"
     },
     {
       "file": "dist/index.html",
       "localLinks": "passed",
-      "duplicateIds": "none",
-      "externalRuntimeScripts": "none"
+      "uniqueIds": "passed"
     },
     {
       "file": "dist/pitch-en.html",
       "localLinks": "passed",
-      "duplicateIds": "none",
-      "externalRuntimeScripts": "none"
+      "uniqueIds": "passed"
     }
   ],
   "javascriptSyntax": "passed via node --check",
   "imageReferences": "passed",
   "keyboardSemantics": "native buttons, anchors and details; visible focus and live result inspected in source",
-  "browserLayoutAndInteractionQA": "pending: required managed CUA tool unavailable; no substitute browser claimed",
+  "browserLayoutAndInteractionQA": "pending: managed CUA tool unavailable; no substitute browser claimed",
   "responsiveRules": "desktop, 800px and 520px breakpoints present; real-device checks pending",
   "reviewedByIntegrator": true,
   "noAccountFormsUploadsTracking": true,
-  "publicAudienceRequested": true
+  "publicAudienceRequested": true,
+  "brandSVGValidation": "passed; path-only vectors, AI metadata, favicon180px",
+  "englishIllustrations": "all four visually reviewed: English speech and AI-generated-art footer",
+  "aiImageHashes": "verified original PNG and WebP derivatives",
+  "nasaImageHash": "matches original game provenance; not AI-generated",
+  "nasaSourcePaths": "all source paths exist in game repository",
+  "presentationPromotion": "removed from landing at owner request"
 }

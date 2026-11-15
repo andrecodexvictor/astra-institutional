@@ -7,3 +7,9 @@ The website uses four pre-existing AI-generated production-vision illustrations 
 Original illustrations contain third-party NASA graphics on fictional uniforms. Those marks are not licensed by the website's code license and imply no endorsement. The project's existing competition review records guidance restricting NASA graphics in AI-generated competition media. These pre-existing concept boards therefore require the team's media and eligibility review before use as an official competition entry; publication here is an independent project showcase, not certification of submission readiness. No organizer approval is asserted.
 
 All dates and commit history are preserved. The game and concept artwork include prior work; a separate institutional repository does not reset that history. The current official challenge brief was verified through the search index on 15 November 2026; direct access returned HTTP 502. The complete current submission guide and challenge-listed resources were not verified.
+
+## Identity and English-localized artwork update — 15 November 2026
+
+The original ASTRA ascent mark and wordmark are AI-generated vector artwork authored by GPT-6.1 Terra as SVG paths, reviewed by the integrating Codex agent, and identified in the visible credits and SVG metadata. The logo contains no NASA symbol or embedded font.
+
+OpenAI image_gen edited the four supplied world illustrations to replace Portuguese dialogue and labels with English. Original English PNG outputs are stored in art/english/; WebP derivatives serve the website. The integrator visually checked every translated illustration and visible AI-generated-art label. Source images and output hashes remain documented. NASA’s Blue Marble image is genuine satellite-derived media, explicitly not AI-generated. Source records and a public credits page distinguish it from the game-world concept illustrations.
