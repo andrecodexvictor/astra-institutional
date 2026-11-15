@@ -29,7 +29,7 @@
   "javascriptSyntax": "passed via node --check",
   "imageReferences": "passed",
   "keyboardSemantics": "native buttons, anchors and details; visible focus and live result inspected in source",
-  "browserLayoutAndInteractionQA": "pending: managed CUA tool unavailable; no substitute browser claimed",
+  "browserLayoutAndInteractionQA": "pending: managed CUA tool unavailable; asset and HTTP checks do not establish browser rendering acceptance",
   "responsiveRules": "desktop, 800px and 520px breakpoints present; real-device checks pending",
   "reviewedByIntegrator": true,
   "noAccountFormsUploadsTracking": true,
@@ -54,5 +54,8 @@
     "entrypointExists": true,
     "note": "Static config verified; remote deployment status and URL must be checked independently."
   },
-  "waterArtContinuity": "Visually reviewed corrected child facial features, complete PIP body, antenna, torso, limbs and canonical dachshund; English speech and AI label retained."
+  "waterArtContinuity": "Visually reviewed corrected child facial features, complete PIP body, antenna, torso, limbs and canonical dachshund; English speech and AI label retained.",
+  "currentConceptReview": "Four landing images and seven localized deck masters reviewed with canonical cast, no NASA identifiers and visible SI/AI label. Thirteen production boards reviewed in game repository.",
+  "landingPromotion": "Judges-pack promotion remains removed",
+  "artifactReview": "Project dossier PDF and Word; 30-slide English and six-slide Portuguese decks verified separately."
 }

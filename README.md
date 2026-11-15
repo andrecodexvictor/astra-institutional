@@ -10,7 +10,7 @@ The linked [playable mission trainer](https://astra-junior-mission-trainer.verce
 
 ## Assets and license
 
-The site code is MIT licensed; see LICENSE. The images in `dist/assets/` are optimized WebP derivatives of AI-generated production-vision art from the mission trainer repository, under `docs/art/production-vision/`: `09-partner-lunar-journey.png`, `11-playful-tasks-dialogue.png`, `15-short-dialogue-voice.png`, and `17-resource-care-alert.png`. The original artwork includes a NASA graphic; it is part of the original concept art and does not imply NASA endorsement. MIT applies to the site code, not a grant of rights to third-party marks or the artwork. Consult the source project's asset notes and applicable rights before reuse.
+The site code is MIT licensed; see LICENSE. The images in `dist/assets/` are optimized WebP derivatives of AI-generated production-vision art from the mission trainer repository, under `docs/art/production-vision/`: `09-partner-lunar-journey.png`, `11-playful-tasks-dialogue.png`, `15-short-dialogue-voice.png`, and `17-resource-care-alert.png`. Earlier artwork revisions included NASA uniform graphics. Current reviewed illustrations use original ASTRA patches after removal of NASA identifiers, and carry the requested SI/AI disclosure. MIT applies to the site code, not a grant of rights to third-party marks or the artwork. Consult the source project's asset notes and applicable rights before reuse.
 
 ## Public website and repository
 
